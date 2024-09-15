@@ -1,0 +1,61 @@
+* {
+    font-family: sans-serif;
+    color: white;
+    outline-color: white;
+}
+
+#title {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#center {
+    padding-left: 0;
+    margin-left: 0;
+    margin: auto;
+}
+
+button {
+    font-size: 30px;
+    margin: auto;
+    display: block;
+}
+
+button:hover {
+    font-size: 40px;
+}
+
+#trees {
+    background-color: green;
+    box-shadow: 0px 0px 10px green;
+}
+
+#doors {
+    background-color: saddlebrown;
+    box-shadow: 0px 0px 10px saddlebrown;
+}
+
+#home {
+    background-color: blue;
+    box-shadow: 0px 0px 10px blue;
+    margin: 0;
+}
+
+img {
+    box-shadow: 0px 0px 25px blue;
+}
+
+#treeimg {
+    box-shadow: 0px 0px 25px green;
+}
+
+#doorimg {
+    box-shadow: 0px 0px 25px saddlebrown;
+}
+
+body {
+    background-color: 161616;
+}
